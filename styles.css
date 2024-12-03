@@ -1,0 +1,30 @@
+#green{
+    background-color: green;
+}
+
+#blue{
+    background-color: blue;
+
+}
+#red{
+    background-color: red;
+}
+button{
+    border-radius: 5px;
+    width:200px;
+    height:70px;
+    margin:5px;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+h3{
+    display:flex;
+    justify-content: center;
+    font-size:2rem;
+}
+div{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
